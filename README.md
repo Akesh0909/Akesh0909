@@ -18,5 +18,17 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
   <br>
 
  ✉️   Reach me via **akesh.12011005@gmail.com** 
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/akesh_yadav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akesh_yadav_" height="30" width="40" /></a>
+<a href="https://wa.me/918307418051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akesh-yadav-995b50204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
+<a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="40" /></a>
+</p>
+ <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+
+<br /> 
+<p align="left">
 
 
