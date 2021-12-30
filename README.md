@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋
  - 👀 I’m interested in web development , android development and competitive coding.
  - 🌱 I’m currently learning React.
- - 📫 How to reach me:-https://akesh0909.github.io/Portfolio-React/ 
+ - 📫 How to reach me:-https://akesh0909.github.io/Portfolio-React/  -->
 
 <!-- 
 Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -42,9 +42,16 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 ![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
 ![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=red)
 ![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <br />
+<h2><b>Github Stats⭐</b></h2> 
+
+<a align="center" href="https://github.com/Akesh0909/Akesh0909">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=algolia&repo=Akesh0909" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&show_icons=true&theme=algolia&repo=Akesh0909" />
+ </p>
 
