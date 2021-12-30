@@ -24,7 +24,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <a href="https://www.instagram.com/akesh_yadav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akesh_yadav_" height="30" width="40" /></a>
 <a href="https://wa.me/918307418051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akesh-yadav-995b50204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
-<a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="35" /></a>
+<a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="30" /></a>
 </p>
  <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/37649/screenshots/14120611/media/70f11596f0557caedd635a2e08ba3212.gif" />
 
@@ -34,7 +34,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 
   
 ![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap)
 ![Python](https://img.shields.io/badge/python-040E2C?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,7 +42,6 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 ![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
 ![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=red)
 ![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
