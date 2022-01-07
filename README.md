@@ -54,8 +54,8 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <h2><b>Github Stats⭐</b></h2> 
 
 <a align="center" href="https://github.com/Akesh0909/Akesh0909">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=dark&repo=Akesh0909" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&show_icons=true&theme=dark&repo=Akesh0909" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=algolia&repo=Akesh0909" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&show_icons=true&theme=algolia&repo=Akesh0909" />
  </p>
  <h3 align="left">Click below to play Game:</h3><hr>
 <a target="_blank" href="https://akesh0909.github.io/Tic-tac-toe/"> 
