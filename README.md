@@ -54,7 +54,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <h2><b>Github Stats⭐</b></h2> 
 
 <a align="center" href="https://github.com/Akesh0909/Akesh0909">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=algolia&repo=Akesh0909" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akesh0909&count_private=true&theme=algolia" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&hide=java,handlebars&theme=algolia" />
  </p>
  <h3 align="left">Click below to play Game:</h3><hr>
