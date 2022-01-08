@@ -7,7 +7,7 @@
 Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Akesh Yadav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akesh Yadav</h1>
 <p> I'm a full-stack dev 👨🏽‍💻  who will never stop building 👷🏽‍♂️!
    I know different languages like HTML, CSS, JavaScript , C++, C, Java. </p>
 <img align="left" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
