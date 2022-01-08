@@ -62,4 +62,4 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <a target="_blank" href="https://akesh0909.github.io/Tic-tac-toe/"> 
  
  <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a>
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=h-im-07&theme=algolia"/>
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akesh0909&theme=algolia"/>
