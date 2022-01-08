@@ -5,6 +5,7 @@
 
 <!-- 
 Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Akesh Yadav</h1>
 <p> I'm a full-stack dev 👨🏽‍💻  who will never stop building 👷🏽‍♂️!
@@ -61,3 +62,4 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <a target="_blank" href="https://akesh0909.github.io/Tic-tac-toe/"> 
  
  <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a>
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=h-im-07&theme=algolia"/>
