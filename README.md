@@ -21,7 +21,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
  👨‍💻  [My Portfolio](https://Akesh0909.github.io/Portfolio-React/) 
   <br>
 
- ✉️   Reach me via **akesh.12011005@gmail.com** 
+ ✉️   Reach me via **akeshrao0909a.r@gmail.com** 
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
