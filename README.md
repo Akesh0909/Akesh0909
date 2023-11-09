@@ -28,7 +28,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <a href="https://www.instagram.com/akesh_yadav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akesh_yadav_" height="30" width="40" /></a>
 <a href="https://wa.me/918307418051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akesh-yadav-995b50204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
-<a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="30" /></a>
+<!-- <a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="30" /></a> -->
 </p>
  <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/37649/screenshots/14120611/media/70f11596f0557caedd635a2e08ba3212.gif" />
 
@@ -58,8 +58,9 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&count_private=true&theme=algolia" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&hide=java,handlebars&theme=algolia" />
  </p>
- <h3 align="left">Click below to play Game:</h3><hr>
+<!--  <h3 align="left">Click below to play Game:</h3><hr>
 <a target="_blank" href="https://akesh0909.github.io/Tic-tac-toe/"> 
  
-  <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a>
+  <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a> -->
 <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Akesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akesh0909&theme=algolia"/>  -->
+[![@akesh_0909's Holopin board](https://holopin.me/akesh_0909)](https://holopin.io/@akesh_0909)
