@@ -9,7 +9,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akesh Yadav</h1>
 <p> I'm a full-stack dev 👨🏽‍💻  who will never stop building 👷🏽‍♂️!
-   I know different languages like HTML, CSS, JavaScript , C++, C, Python. </p>
+   I know different languages like  JavaScript , C++, C, Python. </p>
 <img align="left" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 
  👀 I’m interested in web development and competitive coding.
@@ -18,7 +18,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
 <!--  📕   I’m currently learning **** 
    <br> -->
 
- 👨‍💻  [My Portfolio](https://Akesh0909.github.io/Portfolio-React/) 
+ 👨‍💻  [My Portfolio](https://akesh0909.github.io/Akesh0909-Portfolio/) 
   <br>
 
  ✉️   Reach me via **akesh.12011005@gmail.com** 
@@ -26,7 +26,7 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/akesh_yadav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akesh_yadav_" height="30" width="40" /></a>
-<a href="https://wa.me/918307418051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
+<a href="https://wa.me/918307714148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akesh-yadav-995b50204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
 <!-- <a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="30" /></a> -->
 </p>
