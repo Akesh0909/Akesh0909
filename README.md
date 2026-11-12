@@ -1,122 +1,309 @@
-# Hi there, I'm Akesh Yadav 👋
+<!--
+  GitHub Profile README
+  Repository: Akesh0909/Akesh0909
+-->
 
-### Senior Full Stack Developer | MERN Stack | Next.js | Backend Engineering
+<!-- HERO BANNER -->
+<div align="center">
 
-I'm a passionate **Full Stack Developer** who loves building scalable applications, designing robust backend architectures, and turning ideas into real-world products.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,50:172554,100:1D4ED8&text=Akesh%20Yadav&fontColor=FFFFFF&fontSize=65&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Building%20Scalable%20Digital%20Products&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 
-I specialize in developing modern web applications, REST APIs, real-time systems, e-commerce platforms, and AI-powered solutions.
+<a href="https://akesh.in">
+  <img src="https://img.shields.io/badge/Portfolio-akesh.in-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:akeshiiitian@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akesh-yadav-995b50204/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 💻 Full Stack Developer experienced in production applications.
-- 🚀 Building scalable applications using React, Next.js, Node.js and NestJS.
-- ⚙️ Experienced in API development, system architecture, database optimization and integrations.
-- 🤖 Exploring AI, LLMs and intelligent application development.
-- 🌱 Always learning, experimenting and building something new.
-- 🌐 Portfolio: **[akesh.in](https://akesh.in)**
-- 📫 Email: **[akeshiiitian@gmail.com](mailto:akeshiiitian@gmail.com)**
+<img src="https://komarev.com/ghpvc/?username=Akesh0909&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
+
+I'm **Akesh Yadav**, a Full Stack Developer passionate about engineering scalable web applications, reliable backend systems, and meaningful digital products.
+
+I enjoy working across the entire development lifecycle — from designing intuitive user interfaces and architecting REST APIs to optimizing databases, implementing real-time communication, and deploying production applications.
+
+My focus is not just writing code, but building software that solves real business problems.
+
+- 💻 Full Stack Development with MERN and Next.js.
+- ⚙️ Backend engineering, API architecture and database optimization.
+- 🚀 Building production-ready e-commerce and business applications.
+- 🔄 Real-time systems using Socket.IO and Redis.
+- 🔐 Payment integrations, authentication and application security.
+- 🤖 Exploring AI, LLMs and intelligent software solutions.
+- 🌐 Website: **[akesh.in](https://akesh.in)**
+- 📩 Contact: **[akeshiiitian@gmail.com](mailto:akeshiiitian@gmail.com)**
+
+---
+
+## ⚡ Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Engineering
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+- Responsive UI Development
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- Node.js
+- Express.js
+- NestJS
+- REST API Development
+- Socket.IO
+- JWT Authentication
+- Role-Based Access Control
+- Payment Integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Databases & Storage
+
+- MongoDB
+- PostgreSQL
+- Redis
+- Prisma ORM
+- Cloudflare R2
+- Database Optimization
+- Caching Strategies
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud & DevOps
+
+- AWS
+- Cloudflare
+- Linux / Ubuntu
+- PM2
+- Nginx
+- Git & GitHub
+- CI/CD fundamentals
+- Server Deployment & Monitoring
+
+</td>
+</tr>
+</table>
+
+### Tools & Integrations
 
 <p align="left">
-  <a href="https://akesh.in">
-    <img src="https://img.shields.io/badge/Portfolio-akesh.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akesh-yadav-995b50204/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:akeshiiitian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/akesh_yadav_/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,mongodb,postgres,redis,prisma,tailwind,bootstrap,aws,cloudflare,docker,git,github,linux,vscode" />
 </p>
 
----
+### Other Technologies
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Databases & Caching**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud, DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Integrations & Other Technologies**
-
-- Razorpay, Shiprocket, Firebase, Agora SDK
-- REST APIs, JWT Authentication, RBAC
-- Real-time communication with Socket.IO and Redis
-- AI/LLM integrations, Ollama, OpenAI API
-- Swiss Ephemeris and astrology calculation systems
+`Razorpay` `Shiprocket` `Firebase` `Agora SDK` `Socket.IO` `OpenAI API` `Ollama` `Swiss Ephemeris` `K6` `Postman`
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Talkndheal](https://talkndheal.com) | Astrology platform with chat, calls, live sessions and wallet integrations. | MERN, Socket.IO, Redis |
-| [Balaji Traders](https://balajiwaterpurifier.com) | Business website and e-commerce platform development. | Next.js, Node.js, MongoDB |
-| [VidaBath](https://vidabath.co.in/) | Bathware e-commerce platform with product, cart and order management. | Next.js, React, Node.js |
-| [ToyGarage](https://toygarrage-ecom-frontend.vercel.app/) | E-commerce platform with dynamic categories and product discovery. | Next.js, Tailwind CSS |
-| [WE FIVE Sportswear](https://we-five-theta.vercel.app/) | Premium sportswear storefront with custom size recommendation functionality. | Next.js, Tailwind CSS |
+A selection of products and platforms I've worked on.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪐 Talkndheal
+
+**Astrology & Consultation Platform**
+
+A digital astrology platform supporting real-time interactions between customers and astrologers.
+
+- Real-time chat and communication
+- Audio and video consultation
+- Wallet and recharge systems
+- Payment integrations
+- Redis-powered real-time infrastructure
+
+**Tech:** MERN, Socket.IO, Redis, Agora, Razorpay
+
+[🌐 Visit Website](https://talkndheal.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 Balaji Traders
+
+**Business & Product Platform**
+
+A business website and product-focused digital experience.
+
+- Responsive frontend development
+- Product and category management
+- Business enquiry experience
+- Backend API development
+- CRM and application integrations
+
+**Tech:** Next.js, React, Node.js, MongoDB, Redis
+
+[🌐 Visit Website](https://balajiwaterpurifier.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚿 VidaBath
+
+**Bathware E-commerce Platform**
+
+An e-commerce solution for bathware products with integrated shopping functionality.
+
+- Product and category management
+- Shopping cart and wishlist
+- Order management
+- Coupon functionality
+- Payment and shipping integrations
+
+**Tech:** Next.js, React, Node.js, MongoDB, Redis
+
+[🌐 Visit Website](https://vidabath.co.in/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧸 ToyGarage
+
+**E-commerce Platform**
+
+An online shopping experience focused on product discovery and category-based navigation.
+
+- Dynamic product categories
+- Responsive shopping experience
+- Product discovery and browsing
+- Modern frontend architecture
+
+**Tech:** Next.js, Tailwind CSS, React
+
+[🌐 Live Demo](https://toygarrage-ecom-frontend.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏋️ WE FIVE Sportswear
+
+**Premium Fitness Apparel E-commerce**
+
+A premium sportswear storefront designed for the Indian market.
+
+- Modern premium shopping experience
+- Custom-coded size recommendation feature
+- Measurement-based size selection
+- Responsive product experience
+
+**Tech:** Next.js, Tailwind CSS, Custom APIs
+
+[🌐 Live Demo](https://we-five-theta.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics
+## 🧠 Engineering Highlights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Beyond frontend and backend development, I enjoy solving challenging engineering problems.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akesh0909&theme=tokyonight&hide_border=true" />
-</p>
+| Area | Engineering Experience |
+|---|---|
+| Backend Architecture | Modular APIs, shared backend services and structured routing |
+| Performance | Redis caching, database optimization and K6 load testing |
+| Payments | Razorpay integration, webhook verification and idempotent checkout |
+| Security | JWT authentication, OTP lockout, token revocation and RBAC |
+| Real-time Systems | Socket.IO, Redis and live communication |
+| E-commerce | Cart, wishlist, coupons, inventory and order management |
+| AI & Automation | OpenAI API, local LLMs and AI-powered application experiments |
+| Deployment | Linux servers, PM2, Nginx and Cloudflare infrastructure |
 
 ---
 
-### 🏆 GitHub Achievements
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Akesh0909&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akesh0909/Akesh0909/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
 
 [![Holopin Badges](https://holopin.me/akesh_0909)](https://holopin.io/@akesh_0909)
 
+</div>
+
 ---
 
-### 💡 Developer Philosophy
+## 🤝 Let's Connect
 
-> Great software isn't just about writing code. It's about solving real problems, building reliable systems, and continuously improving.
+I'm always interested in connecting with developers, founders, and people building interesting products.
 
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** 🚀
+Whether it's software engineering, collaboration, or a challenging new idea, feel free to reach out.
 
-⭐ From [Akesh Yadav](https://github.com/Akesh0909)
+<div align="center">
+
+<a href="https://akesh.in">
+  <img src="https://img.shields.io/badge/Website-akesh.in-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:akeshiiitian@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akesh-yadav-995b50204/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### "Build with purpose. Engineer with precision. Never stop learning."
+
+⭐ **Thanks for visiting my profile!**
+
+<sub>© Akesh Yadav | Built with passion and code.</sub>
+
+</div>
