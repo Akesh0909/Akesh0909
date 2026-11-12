@@ -1,66 +1,122 @@
-<!-- ### Hi there 👋
- - 👀 I’m interested in web development , android development and competitive coding.
- - 🌱 I’m currently learning React.
- - 📫 How to reach me:-https://akesh0909.github.io/Portfolio-React/  -->
+# Hi there, I'm Akesh Yadav 👋
 
-<!-- 
-Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### Senior Full Stack Developer | MERN Stack | Next.js | Backend Engineering
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akesh Yadav</h1>
-<p> I'm a full-stack dev 👨🏽‍💻  who will never stop building 👷🏽‍♂️!
-   I know different languages like  JavaScript , C++, C, Python. </p>
-<img align="left" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
+I'm a passionate **Full Stack Developer** who loves building scalable applications, designing robust backend architectures, and turning ideas into real-world products.
 
- 👀 I’m interested in web development and competitive coding.
- <br>
- 
-<!--  📕   I’m currently learning **** 
-   <br> -->
+I specialize in developing modern web applications, REST APIs, real-time systems, e-commerce platforms, and AI-powered solutions.
 
- 👨‍💻  [My Portfolio](https://akesh0909.github.io/Akesh0909-Portfolio/) 
-  <br>
+- 💻 Full Stack Developer experienced in production applications.
+- 🚀 Building scalable applications using React, Next.js, Node.js and NestJS.
+- ⚙️ Experienced in API development, system architecture, database optimization and integrations.
+- 🤖 Exploring AI, LLMs and intelligent application development.
+- 🌱 Always learning, experimenting and building something new.
+- 🌐 Portfolio: **[akesh.in](https://akesh.in)**
+- 📫 Email: **[akeshiiitian@gmail.com](mailto:akeshiiitian@gmail.com)**
 
- ✉️   Reach me via **akesh.12011005@gmail.com** 
- 
- <h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.instagram.com/akesh_yadav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akesh_yadav_" height="30" width="40" /></a>
-<a href="https://wa.me/918307714148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akesh-yadav-995b50204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
-<!-- <a href="https://github.com/Akesh0909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Akesh0909" height="30" width="30" /></a> -->
+  <a href="https://akesh.in">
+    <img src="https://img.shields.io/badge/Portfolio-akesh.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akesh-yadav-995b50204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akeshiiitian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/akesh_yadav_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
- <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/37649/screenshots/14120611/media/70f11596f0557caedd635a2e08ba3212.gif" />
 
-<br /> 
-<p align="left">
-<h2><b>Languages and Tools 🛠 </b></h2>
+---
 
-  
-![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3&logoColor=green)
-![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap)
-![Python](https://img.shields.io/badge/python-040E2C?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
-![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
-![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=red)
-![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Databases & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Integrations & Other Technologies**
+
+- Razorpay, Shiprocket, Firebase, Agora SDK
+- REST APIs, JWT Authentication, RBAC
+- Real-time communication with Socket.IO and Redis
+- AI/LLM integrations, Ollama, OpenAI API
+- Swiss Ephemeris and astrology calculation systems
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Talkndheal](https://talkndheal.com) | Astrology platform with chat, calls, live sessions and wallet integrations. | MERN, Socket.IO, Redis |
+| [Balaji Traders](https://balajiwaterpurifier.com) | Business website and e-commerce platform development. | Next.js, Node.js, MongoDB |
+| [VidaBath](https://vidabath.co.in/) | Bathware e-commerce platform with product, cart and order management. | Next.js, React, Node.js |
+| [ToyGarage](https://toygarrage-ecom-frontend.vercel.app/) | E-commerce platform with dynamic categories and product discovery. | Next.js, Tailwind CSS |
+| [WE FIVE Sportswear](https://we-five-theta.vercel.app/) | Premium sportswear storefront with custom size recommendation functionality. | Next.js, Tailwind CSS |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<br />
-<h2><b>Github Stats⭐</b></h2> 
 
-<a align="center" href="https://github.com/Akesh0909/Akesh0909">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&count_private=true&theme=algolia" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&hide=java,jupyter%20notebook&theme=algolia" />
- </p>
-<!--  <h3 align="left">Click below to play Game:</h3><hr>
-<a target="_blank" href="https://akesh0909.github.io/Tic-tac-toe/"> 
- 
-  <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a> -->
-<!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Akesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akesh0909&theme=algolia"/>  -->
-[![@akesh_0909's Holopin board](https://holopin.me/akesh_0909)](https://holopin.io/@akesh_0909)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akesh0909&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+[![Holopin Badges](https://holopin.me/akesh_0909)](https://holopin.io/@akesh_0909)
+
+---
+
+### 💡 Developer Philosophy
+
+> Great software isn't just about writing code. It's about solving real problems, building reliable systems, and continuously improving.
+
+**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** 🚀
+
+⭐ From [Akesh Yadav](https://github.com/Akesh0909)
