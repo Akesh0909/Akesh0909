@@ -179,13 +179,19 @@ A premium fitness apparel storefront designed for the Indian market.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akesh0909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=Akesh0909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akesh0909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akesh0909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Most Used Languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Akesh0909&theme=tokyonight&hide_border=true" />
+<img width="70%"
+src="https://streak-stats.demolab.com/?user=Akesh0909&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
 
 </div>
 
